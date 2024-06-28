@@ -1,0 +1,20 @@
+marquee{
+    font-size: 25px;
+    color: blue;
+}
+h1{color: red;
+background-color: greenyellow;
+text-align: center;
+}
+img{
+    width: 700px;
+    height: 400px;
+}
+h2{color: red;
+    background-color: greenyellow;
+    text-align: center}
+.round{
+    width: 400px;
+    height: 300px;
+    border-radius: 40%;
+}

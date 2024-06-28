@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(11,76,40);
+    background: linear-gradient(90deg, rgba(11,76,40,1) 0%, rgba(2,0,36,1) 0%, rgba(25,15,91,1) 0%, rgba(17,98,107,1) 100%, rgba(87,86,14,1) 100%);
+}
+
+p {
+    font-size: 30px;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.red{
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
